@@ -1,5 +1,7 @@
 program Day2;
-
+{
+  https://adventofcode.com/2023/day/2
+}
 {$mode objfpc}{$H+}
 
 uses
