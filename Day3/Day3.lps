@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Day3.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="47" Y="12"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus2010\fpc\3.2.0\source\packages\rtl-generics\src\inc\generics.dictionariesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="604"/>
+        <CursorPos X="44" Y="614"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="15">
+      <Position>
+        <Filename Value="Day3.lpr"/>
+        <Caret Line="31" Column="8" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="Day3.lpr"/>
+        <Caret Line="39" Column="18" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="Day3.lpr"/>
+        <Caret Line="21" Column="34" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="Day3.lpr"/>
+        <Caret Line="59" Column="30" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="Day3.lpr"/>
+        <Caret Line="48" Column="17" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="Day3.lpr"/>
+        <Caret Line="55" Column="33" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="Day3.lpr"/>
+        <Caret Line="39" Column="14" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="Day3.lpr"/>
+        <Caret Line="108" Column="20" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="Day3.lpr"/>
+        <Caret Line="140" Column="27" TopLine="121"/>
+      </Position>
+      <Position>
+        <Filename Value="Day3.lpr"/>
+        <Caret Line="57" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="Day3.lpr"/>
+        <Caret Line="16" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="Day3.lpr"/>
+        <Caret Line="113" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="Day3.lpr"/>
+        <Caret Line="114" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="Day3.lpr"/>
+        <Caret Line="116" TopLine="107"/>
+      </Position>
+      <Position>
+        <Filename Value="Day3.lpr"/>
+        <Caret Line="117" TopLine="107"/>
+      </Position>
+      <Position>
+        <Filename Value="Day3.lpr"/>
+        <Caret Line="119" TopLine="107"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
